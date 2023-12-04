@@ -1,5 +1,3 @@
-getwd()
-setwd('C:/Users/user/Desktop/Collective_Intelligence_M2/Notes/Data science3/Week 7')
 library(tidyverse)
 library(broom)
 library(lme4)
